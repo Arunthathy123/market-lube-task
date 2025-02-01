@@ -4,11 +4,11 @@ import Button from "../components/Button";
 
 function Index() {
   const images = [
-    "/src/assets/img1.png",
-    "/src/assets/img4.png",
-    "/src/assets/img3.png",
-    "/src/assets/img2.png",
-    "/src/assets/img5.png",
+    "/assets/img1.png",
+    "/assets/img4.png",
+    "/assets/img3.png",
+    "/assets/img2.png",
+    "/assets/img5.png",
   ];
 
   const details = [
